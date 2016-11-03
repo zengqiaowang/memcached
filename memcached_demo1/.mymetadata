@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="memcached_demo1"
+  id="myeclipse.1477551763099"
+  context-root="/memcached_demo1"
+  j2ee-spec="5.0"
+  archive="memcached_demo1.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
